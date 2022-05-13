@@ -10,7 +10,7 @@
 library(boot)
 library(ISLR)
 
-GBPJPY <- read.csv("C:/Users/mihirgupta/OneDrive - Deloitte (O365D)/Forex Data/GBPJPY_AlgoData.csv", header=T)
+GBPJPY <- read.csv("", header=T)
 
 GBPJPY <- GBPJPY[,-c(11:35)]
 
